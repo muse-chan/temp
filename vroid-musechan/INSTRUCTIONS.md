@@ -81,7 +81,7 @@
 | `images/front-china-dress.webp` | チャイナドレスの採用絵（将来の追加衣装用） |
 | `images/face-closeup.png` | 顔アップ。ほくろ位置・瞳・髪の色味の照合用 |
 | `images/ref-hoodie-side.webp` / `ref-hoodie-back.webp` | パーカー姿の側面・背面の参考（生成図） |
-| `images/view-front.webp` / `view-back.webp` / `view-left.webp` / `view-right.webp` / `view-top.webp` / `view-bottom.webp` | パーカー姿の六面図セット（正面は front-hoodie、背面・左側面は ref と同一。右側面・真上・真下は 2026-11-02 追加の生成図。既知のズレは設定資料の「既知のズレ」5〜7 参照） |
+| `images/view-front.webp` / `view-back.webp` / `view-left.webp` / `view-right.webp` / `view-top.webp` | パーカー姿の五面図セット（正面は front-hoodie、背面・左側面は ref と同一。右側面・真上は 2026-11-02 追加の生成図。真下図は作らないことに決定。既知のズレは設定資料の「既知のズレ」5〜6 参照） |
 | `images/ref-camisole-side.webp` / `ref-camisole-back.webp` | 白キャミ姿の側面・背面の参考（生成図） |
 | `docs/musechan-3d-spec.md` | 設定資料：パラメーター、色、不変条件、衣装仕様 |
 | `docs/vroid-plan.md` | 全体計画：素体 1 つ＋衣装は XWear 差分、という構造の決定事項 |
